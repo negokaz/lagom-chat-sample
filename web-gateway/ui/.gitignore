@@ -2,4 +2,4 @@
 /dist
 # ハンズオン用にビルド済みのものをリポジトリに入れておく
 # /.tmp
-bower_components
+# bower_components
