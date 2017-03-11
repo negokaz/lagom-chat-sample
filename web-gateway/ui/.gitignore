@@ -1,4 +1,5 @@
 /node_modules
 /dist
-/.tmp
+# ハンズオン用にビルド済みのものをリポジトリに入れておく
+# /.tmp
 bower_components
